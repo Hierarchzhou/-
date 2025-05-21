@@ -10,4 +10,4 @@
 这里有自主论的完整版 ：[完整版](https://github.com/Hierarchzhou/zizhulun/blob/main/%E8%87%AA%E4%B8%BB%E8%AE%BA%E8%8B%B1%E6%96%87%E7%89%88.md)
 以及自主论的英文版 ：[自主论英文版](https://github.com/Hierarchzhou/zizhulun/blob/main/%E8%87%AA%E4%B8%BB%E8%AE%BA%E8%8B%B1%E6%96%87%E7%89%88.md)
 
-以及自主论的中英对照表： [自主论中英术语对照表]()
+以及自主论的中英对照表： [自主论中英术语对照表](https://github.com/Hierarchzhou/zizhulun/blob/main/%E8%87%AA%E4%B8%BB%E8%AE%BA%E4%B8%AD%E8%8B%B1%E6%9C%AF%E8%AF%AD%E5%AF%B9%E7%85%A7%E8%A1%A8.md)
